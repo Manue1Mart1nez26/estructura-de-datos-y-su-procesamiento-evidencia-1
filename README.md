@@ -8,7 +8,7 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 - Brandon Omar Ramirez Valdez, [@Brandios02](https://github.com/Brandios02).
 - joshua jamir torres quiroga, [@josh22000](https://github.com/josh22000).
 - Carlos juventino silva de león.
-- José Fernando Chávez Castillo, [@ImGodsGamerZ](https://github.com/ImGodsGamerZ).
+- Cesar Alejandro Arriaga Calderón.
 
 ## Capturas de pantalla
 
