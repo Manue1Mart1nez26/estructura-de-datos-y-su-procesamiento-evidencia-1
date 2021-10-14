@@ -7,7 +7,7 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 - Carlos Manuel Martínez Martínez , [@Manue1Mart1nez26](https://github.com/Manue1Mart1nez26).
 - Brandon Omar Ramirez Valdez, [@Brandios02](https://github.com/Brandios02).
 - joshua jamir torres quiroga, [@josh22000](https://github.com/josh22000).
-- José Fernando Chávez Castillo, [@ImGodsGamerZ](https://github.com/ImGodsGamerZ).
+- Carlos juventino silva de león.
 - José Fernando Chávez Castillo, [@ImGodsGamerZ](https://github.com/ImGodsGamerZ).
 
 ## Capturas de pantalla
