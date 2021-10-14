@@ -5,7 +5,7 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 
 ## Integrantes del equipo
 - Carlos Manuel Martínez Martínez , [@Manue1Mart1nez26](https://github.com/Manue1Mart1nez26).
-- Brandon Omar Ramirez Valdez,
+- Brandon Omar Ramirez Valdez, [@Brandios02](https://github.com/Brandios02).
 - joshua jamir torres quiroga, [@josh22000](https://github.com/josh22000).
 - José Fernando Chávez Castillo, [@ImGodsGamerZ](https://github.com/ImGodsGamerZ).
 - José Fernando Chávez Castillo, [@ImGodsGamerZ](https://github.com/ImGodsGamerZ).
@@ -15,4 +15,4 @@ Repositorio con código generado para la Evidencia 1 de la materia Estructura de
 
 ## Licencia
 
-[estructura-de-datos-y-su-procesamiento-evidencia-1](https://github.com/Manue1Mart1nez26/estructura-de-datos-y-su-procesamiento-evidencia-1) are released under [MIT license](https://github.com/fernandomireles/estructura-de-datos-y-su-procesamiento-evidencia-1/blob/main/LICENSE).
+[estructura-de-datos-y-su-procesamiento-evidencia-1](https://github.com/Manue1Mart1nez26/estructura-de-datos-y-su-procesamiento-evidencia-1) are released under [MIT license](https://github.com/Manue1Mart1nez26/estructura-de-datos-y-su-procesamiento-evidencia-1/blob/main/LICENSE).
