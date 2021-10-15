@@ -27,7 +27,7 @@ while True:
         if DiccionarioPrecios:
             print(notas_Precios.mean())
 
-    if opcionElegida == 2: #Registrar una venta| 2.2 dentro de este que agregue mas articulos y no solo uno
+    if opcionElegida == 2: #Registrar una venta| .2 dentro de este que agregue mas articulos y no solo uno
         while True:
             folioUnico = int(input("Porfavor ingrese el numero de venta : "))
             if folioUnico in DiccionarioVentas.keys():
