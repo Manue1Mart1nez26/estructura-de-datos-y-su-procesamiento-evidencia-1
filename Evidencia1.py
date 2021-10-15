@@ -34,7 +34,7 @@ while True:
                 print(f"\n-- Confirmación de datos:\nClave: {clave}, Nombre: {nombre}, Correo: {correoElectronico}")
                 break
 
-    if opcionElegida == 2:#Registrar una venta| 1.2 dentro de este que agregue mas articulos y no solo uno
+    if opcionElegida == 2:#Registrar una venta| 2.2 dentro de este que agregue mas articulos y no solo uno
         while True:
             clave = int(input("Porfavor ingrese la clave de la Venta: "))
             if clave in DiccionarioVentas.keys():
