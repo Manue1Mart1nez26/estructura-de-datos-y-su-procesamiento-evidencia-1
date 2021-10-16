@@ -9,8 +9,6 @@
 - Carlos juventino silva de león.
 - Cesar Alejandro Arriaga Calderón.
 
-## Capturas de pantalla
-
 
 ## Licencia
 
