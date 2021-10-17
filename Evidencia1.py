@@ -44,7 +44,6 @@ while True:
                     PrecioPagarIVA = ((PrecioPagar * 0.16) + PrecioPagar)
                     print(f"El precio (sin IVA) a del {Articulo} es de {PrecioPagar} ")
                     print(f"El precio (con IVA) a del {Articulo} es de {PrecioPagarIVA} ")
-                    print
                     print("\n-- Deseas agregar algo mas?")
                     print("1) Si")
                     print("2) No")
