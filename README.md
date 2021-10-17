@@ -3,11 +3,11 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg)](LICENSE)
 
 ## Integrantes del equipo
-- Carlos Manuel Martínez Martínez , [@Manue1Mart1nez26](https://github.com/Manue1Mart1nez26).
-- Brandon Omar Ramirez Valdez, [@Brandios02](https://github.com/Brandios02).
-- joshua jamir torres quiroga, [@josh22000](https://github.com/josh22000).
-- Carlos juventino silva de león.
-- Cesar Alejandro Arriaga Calderón.
+- Arriaga Calderón Cesar Alejandro.
+- Martínez Martínez Carlos Manuel , [@Manue1Mart1nez26](https://github.com/Manue1Mart1nez26).
+- Ramirez Valdez Brandon Omar, [@Brandios02](https://github.com/Brandios02).
+- Silva de León Carlos juventino.
+- Torres Quiroga joshua jamir, [@josh22000](https://github.com/josh22000).
 
 
 ## Licencia
